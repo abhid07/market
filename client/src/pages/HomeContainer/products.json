@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Potato",
+        "id": 1,
+        "price": 30,
+        "available": 1,
+        "vendor": "Himachal Pvt Ltd",
+        "category": "vegetables",
+        "img": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cG90YXRvfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+        "name": "Banana",
+        "id": 2,
+        "price": 50,
+        "available": 1,
+        "category": "Fruits",
+        "vendor": "Organic farms",
+        "img": "https://www.daysoftheyear.com/wp-content/uploads/banana-day1-scaled.jpg"
+    },
+    {
+        "name": "Drumsticks",
+        "id": 3,
+        "price": 20,
+        "available": 0,
+        "category": "vegetables",
+        "vendor": "Mallikarjuna farms",
+        "img": "https://static.toiimg.com/photo/msid-81168641/81168641.jpg?303165"
+    },
+    {
+        "name": "Orange",
+        "id": 4,
+        "price": 25,
+        "available": 1,
+        "vendor": "Nagpur farms",
+        "category": "Fruits",
+        "img": "https://cdn.britannica.com/24/174524-050-A851D3F2/Oranges.jpg"
+    },
+    {
+        "name": "Mango",
+        "id": 5,
+        "price": 45,
+        "available": 9,
+        "vendor": "Kokan farms",
+        "category": "Fruits",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCg5LlRUvIQilgmB-Z6ut1Tz0XblDKawzvA&usqp=CAU"
+    },
+    {
+        "name": "Cabbage",
+        "id": 6,
+        "price": 15,
+        "available": 14,
+        "vendor": "Pune farms",
+        "category": "vgetables",
+        "img": "https://m.media-amazon.com/images/I/51k6CDn88UL._SX466_.jpg"
+    },
+    {
+        "name": "Brinjel",
+        "id": 7,
+        "price": 35,
+        "available": 10,
+        "vendor": "Ketki farms",
+        "category": "vegetables",
+        "img": "https://www.thehindu.com/news/cities/Tiruchirapalli/xxg0mx/article31468928.ece/ALTERNATES/LANDSCAPE_615/TY30BRINJAL"
+    },
+    {
+        "name": "Grapes",
+        "id": 8,
+        "price": 40,
+        "available": 20,
+        "vendor": "Shinde's farms",
+        "category": "Fruits",
+        "img": "https://images.financialexpress.com/2021/03/1-857.jpg"
+    },
+    {
+        "name": "Capsicum",
+        "id": 9,
+        "price": 20,
+        "available": 9,
+        "vendor": "Pune farms",
+        "category": "vegetables",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYbkzE_uMnvwX34fPMp3_5_IPPoNyYw-42GA&usqp=CAU"
+    },
+    {
+        "name": "Watermelon",
+        "id": 10,
+        "price": 55,
+        "available": 7,
+        "vendor": "Ketki farms",
+        "category": "vgetables",
+        "img": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/09/watermelon-fruit-sliced-1296x728-header-1296x728.jpg?w=1155&h=1528"
+    }
+]

@@ -1,0 +1,43 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    min-width: 300px;
+}
+
+.card-span{
+    color:rgba(24, 16, 255, 0.625);
+    font-weight: 600;
+}
+
+input[type=number]{
+ border: 1px solid black !important;
+ font-weight: 700;
+    font-size: 1rem;
+    text-transform: capitalize;
+     font-family: 'Poppins', sans-serif;
+     transition: 0.5s;
+     margin-left:5px;
+     outline: none;   
+     padding: 5px;
+     font-weight: 600;
+     padding-left: 10px;
+}
+.buy-btn{
+    background-color: blueviolet !important;
+    color: white !important;
+    padding: 10px;
+    border:none;
+    outline: none;
+    box-shadow: 0px 2px 4px gray !important;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+    border: 1px solid gray !important;
+    font-family: 'Poppins', sans-serif;
+}
+.buy-btn:hover{
+    background-color: white !important;
+    color: blueviolet !important;
+    border: 1px solid blueviolet !important;
+}
